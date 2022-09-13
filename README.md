@@ -1,4 +1,4 @@
 # 🔥 Music Corner Solution
 
-## [Live Demo](https://nwebpro.github.io/book-bhandar-solution/)
+## [Live Demo](https://nwebpro.github.io/music-corner-solution/)
 
